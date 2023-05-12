@@ -1,0 +1,2 @@
+require("rsptn")
+print("hello")
